@@ -1,0 +1,241 @@
+{
+  "last_synced": "2026-09-01",
+  "tracking_code": "682a88c59a",
+  "shop_base": "https://crawfordsmd.com",
+  "products": [
+    {
+      "slug": "minelab-manticore",
+      "review_slug": "minelab-manticore-review",
+      "name": "Manticore",
+      "full_name": "Minelab Manticore",
+      "brand": "Minelab",
+      "tech": "Multi-IQ+",
+      "tech_note": "Simultaneous multi-frequency",
+      "tag": "Best overall / premium",
+      "rank": 1,
+      "blurb": "The most information-rich detector we've ever put in a customer's hands. 2D target trace changes how you read iffy signals on Roman sites.",
+      "image": "https://crawfordsmd.com/image/catalog/product/metal-detectors/minelab-metal-detectors/Mant-coils.jpg",
+      "shop_path": "/minelab-manticore",
+      "scores": {
+        "depth": 4.9,
+        "separation": 4.9,
+        "ease": 3.9,
+        "value": 4.3,
+        "total": 4.8
+      },
+      "stock": "In Stock",
+      "early_verdict": false,
+      "review_status": "live",
+      "review_label": "Read review"
+    },
+    {
+      "slug": "minelab-equinox-900",
+      "review_slug": "minelab-equinox-900-review",
+      "name": "Equinox 900",
+      "full_name": "Minelab Equinox 900",
+      "brand": "Minelab",
+      "tech": "Multi-IQ+",
+      "tech_note": "Simultaneous multi-frequency",
+      "tag": "Best all-terrain",
+      "rank": 2,
+      "blurb": "Flagship-grade Multi-IQ+ performance with the best beach manners in its class. The serious all-rounder for pasture, stubble and wet sand.",
+      "image": "https://crawfordsmd.com/image/catalog/product/metal-detectors/minelab-metal-detectors/equinox/equinox-900offer-w.jpg",
+      "shop_path": "/minelab-equinox-900",
+      "scores": {
+        "depth": 4.7,
+        "separation": 4.5,
+        "ease": 4.4,
+        "value": 4.6,
+        "total": 4.6
+      },
+      "stock": "In Stock",
+      "early_verdict": false,
+      "review_status": "live",
+      "review_label": "Read review"
+    },
+    {
+      "slug": "xp-deus2",
+      "review_slug": "xp-deus-2-review",
+      "name": "Deus II",
+      "full_name": "XP Deus II",
+      "brand": "XP",
+      "tech": "FMF",
+      "tech_note": "Fast multi-frequency, fully wireless",
+      "tag": "Best lightweight flagship",
+      "rank": 3,
+      "blurb": "Featherweight, fully wireless and blisteringly fast in iron-infested medieval sites. The recovery-speed king for experienced hands.",
+      "image": "https://crawfordsmd.com/image/catalog/product/metal-detectors/xp-deus-ii/deus-ii-pouch.jpg",
+      "shop_path": "/xp-deus2",
+      "scores": {
+        "depth": 4.4,
+        "separation": 4.8,
+        "ease": 3.8,
+        "value": 4.2,
+        "total": 4.6
+      },
+      "stock": "In Stock",
+      "early_verdict": false,
+      "review_status": "live",
+      "review_label": "Read review"
+    },
+    {
+      "slug": "minelab-x-terra-elite",
+      "review_slug": "minelab-x-terra-elite-review",
+      "name": "X-Terra Elite",
+      "full_name": "Minelab X-Terra Elite",
+      "brand": "Minelab",
+      "tech": "Multi-IQ",
+      "tech_note": "Simultaneous multi-frequency",
+      "tag": "Best mid-range Multi-IQ",
+      "rank": 4,
+      "blurb": "Simultaneous multi-frequency at a mid-range price, fully submersible to 5m, and currently bundled with ML-85 wireless headphones. Won't out-dig the flagships — but it embarrasses machines a tier up on value.",
+      "image": "https://crawfordsmd.com/image/catalog/product/metal-detectors/minelab-metal-detectors/x-terra/x-terra-elite-ml85.jpg",
+      "shop_path": "/minelab-x-terra-elite",
+      "scores": {
+        "depth": 4.1,
+        "separation": 4.0,
+        "ease": 4.4,
+        "value": 4.7,
+        "total": 4.3
+      },
+      "stock": "In Stock",
+      "early_verdict": false,
+      "review_status": "live",
+      "review_label": "Read review"
+    },
+    {
+      "slug": "nokta-legend-2",
+      "review_slug": "nokta-legend-2-review",
+      "name": "Legend 2",
+      "full_name": "Nokta Legend 2",
+      "brand": "Nokta",
+      "tech": "SMF",
+      "tech_note": "Simultaneous multi-frequency",
+      "tag": "Most features per pound",
+      "rank": 5,
+      "blurb": "A serious feature list for the money — simultaneous multi-frequency and full submersion. Menus are fiddlier than the Minelabs and the audio takes tuning, but the value is real.",
+      "image": "https://crawfordsmd.com/image/catalog/product/metal-detectors/nokta-makro/Legend2/legent2-pack01.jpg",
+      "shop_path": "/nokta-legend-2",
+      "scores": {
+        "depth": 4.2,
+        "separation": 4.1,
+        "ease": 3.8,
+        "value": 4.8,
+        "total": 4.2
+      },
+      "stock": "In Stock",
+      "early_verdict": false,
+      "review_status": "live",
+      "review_label": "Read review"
+    },
+    {
+      "slug": "xp-icon-x",
+      "review_slug": "xp-icon-x-review",
+      "name": "ICON X",
+      "full_name": "XP ICON X",
+      "brand": "XP",
+      "tech": "FMF",
+      "tech_note": "Fast multi-frequency",
+      "tag": "New release · early verdict",
+      "rank": 6,
+      "blurb": "XP's newest release — Deus II technology in a simpler, more affordable package. Early testing is promising; score will firm up once it's had a full season in UK soil.",
+      "image": "https://crawfordsmd.com/image/catalog/product/metal-detectors/xp-metal-detectors/xp/IconX-pouch-01.jpg",
+      "shop_path": "/xp-icon-x",
+      "scores": {
+        "depth": 4.3,
+        "separation": 4.4,
+        "ease": 4.2,
+        "value": 4.0,
+        "total": 4.2
+      },
+      "stock": "In Stock",
+      "early_verdict": true,
+      "review_status": "live",
+      "review_label": "Read review"
+    },
+    {
+      "slug": "simplex-ultra",
+      "review_slug": "nokta-simplex-ultra-review",
+      "name": "Simplex Ultra",
+      "full_name": "Nokta Simplex Ultra",
+      "brand": "Nokta",
+      "tech": "Single frequency",
+      "tech_note": "Single frequency, waterproof",
+      "tag": "Best budget / beginner",
+      "rank": 7,
+      "blurb": "The budget waterproof all-rounder we hand to first-timers. Simple, rugged and honest — just don't expect flagship depth or separation in iron.",
+      "image": "https://crawfordsmd.com/image/catalog/product/metal-detectors/simplex/simplex-ultra01.jpg",
+      "shop_path": "/simplex-ultra",
+      "scores": {
+        "depth": 3.5,
+        "separation": 3.4,
+        "ease": 4.8,
+        "value": 4.6,
+        "total": 3.9
+      },
+      "stock": "In Stock",
+      "early_verdict": false,
+      "review_status": "live",
+      "review_label": "Read review"
+    },
+    {
+      "slug": "minelab-x-terra-pro",
+      "review_slug": "minelab-x-terra-pro-review",
+      "name": "X-Terra Pro",
+      "full_name": "Minelab X-Terra Pro",
+      "brand": "Minelab",
+      "tech": "Pro-Switch single frequency",
+      "tech_note": "Switchable 5/8/10/15 kHz",
+      "tag": "Best rugged single-freq",
+      "rank": 8,
+      "blurb": "Rugged, waterproof and simple, with Pro-Switch switchable single frequency (5/8/10/15 kHz). Single frequency limits it on wet sand and hot ground — but as a no-nonsense field machine it's dependable.",
+      "image": "https://crawfordsmd.com/image/catalog/product/metal-detectors/minelab-metal-detectors/x-terra/minelab---xtp---hero.jpg",
+      "shop_path": "/minelab-x-terra-pro",
+      "scores": {
+        "depth": 3.4,
+        "separation": 3.2,
+        "ease": 4.7,
+        "value": 4.1,
+        "total": 3.6
+      },
+      "stock": "In Stock",
+      "early_verdict": false,
+      "review_status": "live",
+      "review_label": "Read review"
+    }
+  ],
+  "retired": [
+    {
+      "slug": "minelab-vanquish540-pro",
+      "full_name": "Minelab Vanquish 540 Pro-Pack",
+      "reason": "Out of stock / end of line — removed per Sam's review, 2026-07-20"
+    }
+  ],
+  "platforms": {
+    "trustpilot": {
+      "rating": "4.8",
+      "count": "3,421",
+      "label": "Excellent"
+    },
+    "google": {
+      "rating": "4.9",
+      "count": "1,736",
+      "label": "Top Quality Store",
+      "url": "https://www.google.com/storepages?q=crawfordsmd.com&c=GB&v=19"
+    },
+    "facebook": {
+      "rating": "98%",
+      "count": "79",
+      "label": "recommend"
+    },
+    "blended": {
+      "rating": "4.8",
+      "count": "3,653"
+    }
+  },
+  "store": {
+    "address": "Unit 11 Weaver Court, Sawcliffe Industrial Park, Scunthorpe, North Lincs, DN15 8RN",
+    "phone": "01724 845608",
+    "hours": "Mon–Fri 9am–5pm · Sat 10am–12pm"
+  }
+}
